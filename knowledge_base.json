@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "& C:/Users/Alexa/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Alexa/Desktop/code/main.py",
+      "answer": "\"skip\""
+    },
+    {
+      "question": "hey",
+      "answer": "hello, how can i help you?"
+    },
+    {
+      "question": "capital of Australia",
+      "answer": "Canberra"
+    }
+  ]
+}
